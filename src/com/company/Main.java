@@ -3,7 +3,7 @@ package com.company;
 import java.util.Arrays;
 
 public class Main {
-
+// са
     public static void main(String[] args) {
 	int[] arrays = {34, 21, 43, -14, 25, -56};
     boolean isSorted = false;
